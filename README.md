@@ -32,9 +32,10 @@
 Athos :
 
    Copiez les fichiers suivants dans le répertoire tp3/src, validez-les dans le dépôt local et distant :
-        CryptoMarche.java
-        Portefeuille.java
-        TestCryptoMarche.java
+        ***CryptoMarche.java***
+       ***Portefeuille.java***
+       ***TestCryptoMarche.java***
+        
 Porthos :
 
    Assurez-vous d’obtenir la dernière version du dépôt distant.
