@@ -32,7 +32,8 @@
 Athos :
 
    Copiez les fichiers suivants dans le répertoire tp3/src, validez-les dans le dépôt local et distant :
-    ***CryptoMarche.java***
+   
+   ***CryptoMarche.java***
         
    ***Portefeuille.java***
        
@@ -41,6 +42,25 @@ Athos :
 Porthos :
 
    Assurez-vous d’obtenir la dernière version du dépôt distant.
+
+
+   une fois cela fait les deux font les morceaux de peogramme qu'ils manquent et une fois cela fini ils envoient leur travail modifier sur git 
+
+   Nous partons de ça :
+
+       Test Portefeuille transfertDevise        ... FAIL
+       Test Portefeuille achatDevise            ... FAIL
+       Test CryptoMarche capitalEnEuros         ... FAIL
+       Test CryptoMarche capitalMonneaie        ... FAIL
+
+  Et nous voulons obtenir ceci : 
+
+       Test Portefeuille transfertDevise        ... TRUE
+       Test Portefeuille achatDevise            ... TRUE
+       Test CryptoMarche capitalEnEuros         ... TRUE
+       Test CryptoMarche capitalMonneaie        ... TRUE
+
+  
 
 
 
