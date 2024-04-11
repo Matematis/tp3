@@ -62,7 +62,16 @@ Porthos :
 
   
 
+À l’aide de git log, nous pouvons également voir toutes les modifications que nous avons apportées jusqu’à présent. Passons certains paramètres à la commande pour la rendre plus lisible.
 
+
+git log --graph --oneline --all --decorate --topo-order
+
+
+Nous avons créé une nouvelle branche nommé test 
+
+git checkout -b test
+Switched to a new branch 'test'
 
  
 
