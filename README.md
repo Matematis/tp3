@@ -19,6 +19,6 @@
 
   Dans un premier temps nous nous sommes mis d'accord sur qui allait jouer athos et porthos 
 
- **-- 1. Inviter des collaborateurs dans un dépôt personnel-- **
+ ** 1. Inviter des collaborateurs dans un dépôt personnel **
 
  
