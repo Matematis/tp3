@@ -21,7 +21,25 @@
   Dans un premier temps nous nous sommes mis d'accord sur qui allait jouer athos et porthos 
 
  **1. Inviter des collaborateurs dans un dépôt personnel**
- ------------------------------------------------------------
+ --------------------------------------------------------
+
+ Pour commencer Athos a créé un repertoire ou il a ébergé porthos et nous avons fait ***"Invite a collaborator"*** 
+
+
+**2. Développement d’un projet java en équipe**
+-----------------------------------------------
+
+Athos :
+
+   Copiez les fichiers suivants dans le répertoire tp3/src, validez-les dans le dépôt local et distant :
+        CryptoMarche.java
+        Portefeuille.java
+        TestCryptoMarche.java
+Porthos :
+
+   Assurez-vous d’obtenir la dernière version du dépôt distant.
+
+
 
  
 
